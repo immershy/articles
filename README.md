@@ -6,3 +6,5 @@
   http://javabypatel.blogspot.in/2016/09/concurrenthashmap-interview-questions.html
 3. wait,notify,java线程状态
   http://blog.jrwang.me/2016/java-thread-states/
+4. 地址位置计算
+  http://www.cnblogs.com/LBSer/p/3310455.html， http://redisdoc.com/geo/index.html
