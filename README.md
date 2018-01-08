@@ -12,3 +12,5 @@
   https://zhuanlan.zhihu.com/p/24440059
 6. HTTPS
   https://zhuanlan.zhihu.com/p/22142170
+7. Mysql事务隔离级别
+  https://tech.meituan.com/innodb-lock.html
