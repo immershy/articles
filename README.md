@@ -10,3 +10,5 @@
   http://www.cnblogs.com/LBSer/p/3310455.html， http://redisdoc.com/geo/index.html
 5. 一致性哈希
   https://zhuanlan.zhihu.com/p/24440059
+6. HTTPS
+  https://zhuanlan.zhihu.com/p/22142170
