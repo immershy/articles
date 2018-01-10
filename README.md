@@ -16,3 +16,5 @@
   https://tech.meituan.com/innodb-lock.html
 8. JVM调优
   https://tech.meituan.com/jvm_optimize.html
+9. Hystrix异步请求，熔断器
+  https://github.com/Netflix/Hystrix/wiki/How-it-Works
