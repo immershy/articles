@@ -18,3 +18,6 @@
   https://tech.meituan.com/jvm_optimize.html
 9. Hystrix异步请求，熔断器
   https://github.com/Netflix/Hystrix/wiki/How-it-Works
+ 
+10. tomcat源码 engine,valve,host,wrapper： 
+  http://www.10tiao.com/html/308/201608/2650076065/1.html
