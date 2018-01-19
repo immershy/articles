@@ -27,3 +27,6 @@
 
 11. 适配器模式
   https://www.ibm.com/developerworks/cn/java/j-lo-adapter-pattern/index.html
+
+12. RxJava
+  http://gank.io/post/560e15be2dca930e00da1083
