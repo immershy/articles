@@ -32,3 +32,6 @@
 
 12. RxJava
   http://gank.io/post/560e15be2dca930e00da1083
+  
+13. Raft协议
+  http://thesecretlivesofdata.com/raft/
