@@ -27,6 +27,7 @@
 
 11. 适配器模式
   https://www.ibm.com/developerworks/cn/java/j-lo-adapter-pattern/index.html
+  http://wiki.jikexueyuan.com/project/design-pattern-structurized/bridge-four.html
 
 12. RxJava
   http://gank.io/post/560e15be2dca930e00da1083
