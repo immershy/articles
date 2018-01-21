@@ -38,3 +38,6 @@
  
 14. 短链
   https://www.zhihu.com/question/29270034
+
+15. 同步、异步、阻塞、非阻塞
+  https://www.zhihu.com/question/19732473
