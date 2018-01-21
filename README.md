@@ -35,3 +35,6 @@
   
 13. Raft协议
   http://thesecretlivesofdata.com/raft/
+ 
+14. 短链
+  https://www.zhihu.com/question/29270034
