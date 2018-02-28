@@ -43,3 +43,5 @@
   https://www.zhihu.com/question/19732473
   
 16. ThreadPoolExecutor https://fangjian0423.github.io/2016/03/22/java-threadpool-analysis/
+
+17. interuptered(),isInterupted() http://www.cnblogs.com/hapjin/p/5450121.html
