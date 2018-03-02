@@ -47,5 +47,3 @@
 17. interuptered(),isInterupted() http://www.cnblogs.com/hapjin/p/5450121.html
 
 18. redis分布式锁  http://zhangtielei.com/posts/blog-redlock-reasoning.html
-17. interuptered(),isInterupted() http://www.cnblogs.com/hapjin/p/5450121.htmlsuo
-17. interuptered(),isInterupted() http://www.cnblogs.com/hapjin/p/5450121.html
