@@ -51,3 +51,5 @@
 19. Mysql InnerDB  https://draveness.me/mysql-innodb
 
 20. 红包系统设计 https://timyang.net/architecture/wechat-red-packet/
+
+22. OAuth2.0 http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
