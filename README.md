@@ -49,3 +49,5 @@
 18. redis分布式锁  http://zhangtielei.com/posts/blog-redlock-reasoning.html
 
 19. Mysql InnerDB  https://draveness.me/mysql-innodb
+
+20. 红包系统设计 https://timyang.net/architecture/wechat-red-packet/
