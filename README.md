@@ -24,6 +24,7 @@
   http://blog.csdn.net/sefler/article/details/7826777
   http://singleant.iteye.com/blog/695087
   http://gearever.iteye.com/blog/1844203
+  https://my.oschina.net/pingpangkuangmo/blog/668925
 
 11. 适配器模式
   https://www.ibm.com/developerworks/cn/java/j-lo-adapter-pattern/index.html
